@@ -1,5 +1,7 @@
 # moviesapp
 
+
+
 ## Project setup
 ```
 npm install
@@ -14,3 +16,5 @@ npm run serve
 ```
 npm run build
 ```
+## Предварительный разбор проекта, его структуры
+![Image alt](https://github.com/Siwaaa/practice-movie-app/blob/main/Разбор%20на%20компоненты.png)
